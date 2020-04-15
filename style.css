@@ -1,0 +1,181 @@
+body{
+  margin: 0;
+  text-align: center;
+  width: 1903px;
+}
+h1{
+  color:grey;
+  font-size: 3.75rem;
+  font-family:'Rock Salt', cursive;
+  margin-top: 0;
+  position: static;
+  top:350px;
+  padding-top: 300px;
+
+}
+
+.p1{
+  margin-top:5px;
+  margin-bottom: 55px;
+  color: grey;
+  font-family:'Special Elite', cursive;
+  font-size: 1.875rem;
+  position: static;
+  top:300px;
+}
+.batman{
+  margin:auto auto 200px auto;
+  display: inline-block;
+  position: static;
+  top:330px;
+  right: 100px;
+  left:2px;
+
+}
+.clouds{
+  height:200px;
+  width:200px;
+  display:inline-block;
+  position: relative;
+  left:5px;
+  bottom: 600px;
+
+}
+
+.clouds1{
+  height:200px;
+  width:200px;
+  display:inline-block;
+  position: relative;
+  left:0;
+  bottom: 600px;
+}
+.top-most-container{
+  background-color:#525252 ;
+  height:100px;
+  width: 1903px;
+  position: fixed;
+
+}
+.top-container{
+  background-color:#363636;
+  width:1903px;
+  height:1135px;
+  position: relative;
+}
+
+.middle-container{
+  background-color:#dbdbdb;
+  height: 1000px;
+  display: inline-block;
+  width: 1903px;
+  height:1000px;
+  position: static;
+
+}
+.p2{
+  color: black;
+  font-family:'Special Elite', cursive;
+  font-size:1.875rem;
+  position: static;
+  top: 100px;
+  left:30px;
+}
+.boy{
+  background-color: black;
+  width:200px;
+  position: static;
+  top:100px;
+  margin-right: 0;
+  right:0;
+
+}
+.circular{
+  border-radius:100%;
+
+}
+.p3{
+  color: black;
+font-family:'Special Elite', cursive;
+font-size:1.87rem;
+top: 100px;
+left: 20px;
+margin-right:40px;
+margin-top: 56px;
+margin-left: 40px;
+}
+.hr{
+  border:5px dotted;
+  border-color: white;
+  radius:100%;
+  margin-top: 70px;
+  width: 100px;
+  size:2;
+}
+.p4{
+  color: black;
+font-family:'Special Elite', cursive;
+font-size:2.125rem;
+position:static;
+display: inline-block;
+top: 5px;
+left: 20px;
+margin-right:40px;
+margin-left: 40px;
+}
+.programmer{
+  padding-left: 300px;
+}
+.web{
+  padding-left: 290px;
+}
+.logo{
+  padding-left: 300px;
+}
+.pro{
+  padding-left: 300px;
+  width:200px;
+
+
+}
+
+.bottom-container{
+  background-color:#eae9e9;
+  height:1500px;
+  width:1903px;
+
+}
+.giphy-embed{
+ position: static;
+ margin-left: 180px;
+ margin-right: 180px;
+ margin-bottom: 150px;
+}
+.bottom-most-container{
+  background-color: black;
+  position: absolute;
+  top:3600px;
+  width: 1903px;
+  height: 100px;
+}
+.p5{
+  color:white;
+  font-style: normal;
+  font-size: 1.875rem;
+  padding-top: 15px;
+}
+.p6{
+  color:black;
+  font-style: normal;
+  font-size:1.875rem;
+  padding-top: 15px;
+}
+.contact{
+  font-size: 1.875rem;
+  display: inline;
+  background-color: white;
+  border-radius: 6px;
+  border-color: black;
+  border-style:dotted;
+  color:blue;
+}
